@@ -32,4 +32,6 @@ bash <(curl -s https://raw.githubusercontent.com/Pinokontoll/Installer-Theme/ref
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Created by [ BANG SANO ](https://github.com/Pinokontoll)
+- Created by [ PINOKONTOL ]
+- Copyright by [ BANG SANO ]
+(https://github.com/Pinokontoll)
